@@ -24,8 +24,6 @@ def get_current_date():
         >>> get_current_date()
         datetime.date(2016, 2, 29)
     """
-    global date
-
     return datetime.date.today()
 
 if __name__ == '__main__':
