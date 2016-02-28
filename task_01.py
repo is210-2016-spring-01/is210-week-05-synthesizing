@@ -22,8 +22,3 @@ def get_current_date():
     """
     date = datetime.date.today()
     return date
-
-
-CURDATE = get_current_date()
-
-print CURDATE
