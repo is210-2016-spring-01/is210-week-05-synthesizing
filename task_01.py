@@ -6,9 +6,9 @@ import datetime
 
 CURDATE = None
 
+
 def get_current_date():
 
-    
     """this function returns the date.
 
     Args:
